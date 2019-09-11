@@ -1,0 +1,34 @@
+#logo{
+    font-weight: 600;
+    font-size: 25px;
+    color: #314455;
+    border: 2px solid #c96567;
+    padding: 0 10px;
+}
+#logo:hover{
+    background: #c96567;
+    color: #fff;
+}
+a.active{
+    color: #c96567 !important;
+}
+#name-title{
+    font-weight: 400;
+    font-size: 20px;
+    color: #fff;
+    width: 50px;
+    background: #97aabd;
+    padding: 10px;
+}
+#name{
+    font-weight: 600;
+    font-size: 40px;
+    color: #314455;
+}
+#work-title{
+    font-weight: 200;
+    font-size: 25px;
+}
+#work-title-main{
+    color: #c96567;
+}
